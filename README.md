@@ -1,2 +1,3 @@
 # home-lab
-My journey
+Repos internal structure
+docs - all schemes and notes
