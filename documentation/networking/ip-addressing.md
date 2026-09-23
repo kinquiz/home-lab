@@ -1,7 +1,6 @@
 # IP Addressing
 
 | Host | Interface | IP | Network | Purpose |
-|---|---|---|---|---|
 | DC01 | vmbr1 | 10.10.10.10 | 10.10.10.0/24 | Active Directory |
 | WIN11PC1 | vmbr1 | 10.10.10.20 | 10.10.10.0/24 | Windows Client |
 | ATTK | vmbr1 | 10.10.10.30 | 10.10.10.0/24 | Security Testing |
